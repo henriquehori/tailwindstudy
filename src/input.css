@@ -1,5 +1,7 @@
 @import "tailwindcss";
 
 @theme {
-  --color-floresta: #16281f;
+  --color-floresta-300: #88ed78;
+  --color-floresta-600: #16281f;
+  --color-floresta-700: #0f1c15;
 }
